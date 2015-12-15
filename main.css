@@ -1,0 +1,73 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-image: url("http://www.bmw.com/_common/rebrush/img/backgrounds/black_background.jpg");
+    background-size:cover;
+}
+
+h1{
+    font-family:jokerman;
+    padding:70px 100px 70px 100px;
+    margin:0px;
+    font-size:60px;
+    background-color:#FF4c21;
+}    
+
+h2,h3,h4{
+    font-family:Arial;
+    margin:20px 100px 20px 100px;
+    padding:0px;
+    color:Red;
+    background-clip:10px dotted black;
+}
+
+p{
+    padding:0px;
+    margin:70px 100px 70px 100px;
+    color:white;
+    font-size:30px;
+    font-weight:900; 
+}
+#nav {
+    padding:10px 100px 10px 100px;
+    background-color:#7F2610;
+    margin:0px;
+    font-family:jokerman;
+}
+
+#nav li {
+    display:inline;
+    margin-right:10px;
+    color:Black;
+    font-size:30px;
+}
+a {
+  color:white;
+  text-decoration:none
+}
+li {
+    font-weight:900;
+    font-size:30px;
+    color:#7F2610;
+    margin-left:70px;
+    list-style-type:none;
+    Color:#7F2610;
+}
+ul, ol{
+    list-style-type:none;
+    padding-left:70px;
+}
+h2{
+    font-size:40px;
+}
+h3{
+    font-size:30px;
+}
+h4{
+    font-size:25;
+}
+P{
+    Color:#7F2610;
+}
+#div
+    Float:right;
